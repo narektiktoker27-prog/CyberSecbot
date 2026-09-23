@@ -1,0 +1,12 @@
+start - Բացել բոտը
+help - Հրամանների ցանկ
+rules - Չատի կանոններ
+id - Իմ Telegram ID-ն
+bazza - Հիմնադրի բազա
+backup - Բազայի backup
+note - Անձնական նշում
+notes - Ցույց տալ նշումները
+delnote - Ջնջել նշումները
+find - Գտնել ID-ով
+online - Ներկա անդամներ
+stats - Բազայի վիճակ
